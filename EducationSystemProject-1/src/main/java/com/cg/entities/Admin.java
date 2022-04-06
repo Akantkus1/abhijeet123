@@ -7,7 +7,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 import javax.persistence.Table;
-// hello
+// This is a admin entity class
 @Entity
 @Table(name = "admin_tabl")
 public class Admin {
